@@ -1,6 +1,0 @@
-Hello World (in Swift). Added here for prosperity.
-
-To run, give helloworld execute permissions and then run it:
-
-chmod +x helloworld
-./helloworld
