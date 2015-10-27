@@ -4,8 +4,8 @@ Just a few notes on coding Swift from the command line, as well as creating Swif
 
 **Vim Setup**
 
-• Vim plugin manager: [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug)
-• Swift syntax highlighting: [https://github.com/Keithbsmiley/swift.vim](https://github.com/junegunn/vim-plug)
+* Vim plugin manager: [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug)
+* Swift syntax highlighting: [https://github.com/Keithbsmiley/swift.vim](https://github.com/junegunn/vim-plug)
 
 **Shell Scripting**
 
